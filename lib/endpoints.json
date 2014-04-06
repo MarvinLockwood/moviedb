@@ -86,6 +86,8 @@
           , "ChangedPeople" : { "resource": "person/changes", "method": "get" }
           , "TopRatedTvs" : { "resource": "tv/top_rated", "method": "get" }
           , "PopularTvs" : { "resource": "tv/popular", "method": "get" }
+          , "AiringToday" : { "resource": "tv/airing_today", "method": "get" }
+          , "OnTheAir" : { "resource": "tv/on_the_air", "method": "get" }
       }
     }
 }
